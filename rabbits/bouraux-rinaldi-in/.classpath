@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Vincent/Documents/Etudes EPFL/Master/2019-2020 Automne/Intelligent Agents/IAProjects/rabbits/lib/repast.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Vincent/Documents/Etudes%20EPFL/Master/2019-2020%20Automne/Intelligent%20Agents/IAProjects/rabbits/additional_files/repast_javadoc/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Vincent/Documents/Etudes EPFL/Master/2019-2020 Automne/Intelligent Agents/IAProjects/rabbits/additional_files/intelagent_jars/colt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vincent/Documents/Etudes EPFL/Master/2019-2020 Automne/Intelligent Agents/IAProjects/rabbits/additional_files/intelagent_jars/plot.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
